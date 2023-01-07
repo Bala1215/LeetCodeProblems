@@ -1,3 +1,10 @@
+/*
+ QUESTION : 
+   1. CONVERT INTO LOWERCASE 
+   2. REMOVE ALL NON-ALPHANUMERIC CHARACTER
+   3. CHECK WHETHER THE STRING IS PALINDROME OR NOT
+*/
+
 import java.util.*;
 public class ValidPalindrome{
 
