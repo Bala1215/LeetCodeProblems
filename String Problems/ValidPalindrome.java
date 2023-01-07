@@ -20,7 +20,7 @@ public class ValidPalindrome{
     
   }
   public static void main(String[] args){
-      String str = "amma..!";
+      String str = "haha..!";
       //"ab1"; "1. Hooh!";
       System.out.println(isValidPalindrome(str));
    }
