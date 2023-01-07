@@ -64,5 +64,9 @@ class PowerOfTwo{
        // o/p : true
        System.out.println(isPowerOfTwo(12));
        // o/p : false
+	  
+      //method 3 : oneline method to find is the power of 2 .
+      int n = 32;
+      System.out.println("Method 3 : "+ (n>0 && Integer.MIN_VALUE % n==0 ? true : false))
    }
 }
